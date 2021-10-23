@@ -1,0 +1,4 @@
+﻿  laba 2.1.cpp
+C:\Users\Zver\source\repos\laba 2.1\laba 2.1\laba 2.1.cpp(54): warning C4715: menu: значение возвращается не при всех путях выполнения
+C:\Users\Zver\source\repos\laba 2.1\laba 2.1\laba 2.1.cpp(61): warning C4715: menu_matematical_operation: значение возвращается не при всех путях выполнения
+  laba 2.1.vcxproj -> C:\Users\Zver\source\repos\laba 2.1\Debug\laba 2.1.exe
